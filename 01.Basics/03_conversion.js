@@ -1,7 +1,7 @@
 let score = "piyush"
 
-//console.log(typeof score);
-//console.log(typeof(score));
+//console.log(typeof score);// number
+//console.log(typeof(score));//number 
 
 let valueInNumber = Number(score)
 //console.log(typeof valueInNumber);
